@@ -1,0 +1,4 @@
+conteudo:
+- adicionar o conteudo "stage" (indice do meu repositorio) : git add * (ou www, etc)
+- enviar os arquivos para o respositorio (HEAD = local): git commit -m "comentario sobre as alteracoes"
+- enviar para o repositorio remoto: git push origin master
